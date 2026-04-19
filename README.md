@@ -10,12 +10,6 @@ He desarrollado sistemas web y de escritorio en múltiples lenguajes y arquitect
 
 ---
 
-## 🔥 Racha de Contribuciones
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KendallSN&theme=radical&hide_border=true)
-
----
-
 ## 🛠️ Tecnologías y Herramientas
 
 ### Lenguajes
