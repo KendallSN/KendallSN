@@ -53,6 +53,6 @@ He desarrollado sistemas web y de escritorio en múltiples lenguajes y arquitect
 ## 📫 Contáctame
 
 - **Email**: [kendallsalazarnavarro@gmail.com](mailto:kendallsalazarnavarro@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/kendall-salazar-navarro)
+- **LinkedIn**: [linkedin.com/in/kendall-salazar-navarro](https://www.linkedin.com/in/kendall-salazar-navarro)
 
 ---
